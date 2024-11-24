@@ -20,7 +20,7 @@
 
 ### 1. **Open Cart Website MAnual Testing**  
 Perform Manual Testing on HomePage functionality & Reccuring Payment Fuctionality.  
-🔗 [Repository Link]()  
+🔗 [Repository Link](https://github.com/prafulshengaye/Manual-Testing-OpencartWebsite)  
 
 ### 2. **Books to Scrape Automation**  
 Created test cases for the `Books to Scrape` website. Focused on end-to-end test scenarios.  
