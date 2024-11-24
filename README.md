@@ -26,8 +26,8 @@ Perform Manual Testing on HomePage functionality & Reccuring Payment Fuctionalit
 perform Automation Testing On OpenCart website using cypress  
 🔗 [Repository Link](https://github.com/prafulshengaye/Automation-Testing-Cypress--OpenCart-Website)  
 
-### 3. **API Testing with Postman**  
-Developed automated test suites for REST APIs using Postman.  
+### 3. **Expense-Tracking JavaScript-Project**  
+.  
 🔗 [Repository Link](#)  
 
 ---
