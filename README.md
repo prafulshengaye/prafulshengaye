@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Praful Gokul Shengaye
-- 
+- 👋 Hi, I’m Praful Gokul Shengaye ................
 
 - 🎯 **Aspiring Software Development Engineer in Test (SDET)**  
 - 🎓 Currently completing the SDET program at Masai School  
