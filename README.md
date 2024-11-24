@@ -43,3 +43,5 @@ Dedicated to improving software quality through innovative testing approaches. P
 
 🔗 [LinkedIn](www.linkedin.com/in/praful-shengaye-459a97222) 
 
+Resume Link: https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742eb9d7ca4c4119e9b10cc
+
