@@ -28,7 +28,7 @@ perform Automation Testing On OpenCart website using cypress
 
 ### 3. **Expense-Tracking JavaScript-Project**  
 This project helps users manage their finances by adding, categorizing, and visualizing expenses effectively. Features include real-time updates, data storage, and user-friendly design
-🔗 [Repository Link](#)  
+🔗 [Repository Link](https://github.com/prafulshengaye/Expense-Tracking--JavaScript-Project)  
 
 ---
 
