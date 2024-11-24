@@ -18,9 +18,9 @@
 
 ## 📚 Projects
 
-### 1. **OrangeHRM Login Automation**  
-Automated the login functionality of the OrangeHRM portal using Cypress.  
-🔗 [Repository Link](#)  
+### 1. **Open Cart Website MAnual Testing**  
+Perform Manual Testing on HomePage functionality & Reccuring Payment Fuctionality.  
+🔗 [Repository Link]()  
 
 ### 2. **Books to Scrape Automation**  
 Created test cases for the `Books to Scrape` website. Focused on end-to-end test scenarios.  
