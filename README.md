@@ -19,11 +19,11 @@
 ## 📚 Projects
 
 ### 1. **OpenCart E-commerce Testing Project**  
-Perform Manual Testing on opencart website.  
+Perform Manual Testing on opencart website, on the reccuring payment and homepage functionality.   
 🔗 [Repository Link](https://github.com/prafulshengaye/Manual-Testing-OpencartWebsite)  
 
 ### 2. **Cypress Automation Project: Affiliate Registration**  
-.  Automation Testing On Opencart website using CYypress.
+Automation Testing On Opencart website using CYypress.
 🔗 [Repository Link](https://github.com/prafulshengaye/Automation-Testing-Cypress--OpenCart-Website)  
 
 ### 3. **Expence Tracking Project- JavaScript**  
