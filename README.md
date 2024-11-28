@@ -40,7 +40,9 @@ Dedicated to improving software quality through innovative testing approaches. P
 
 **📫 Connect with Me**  
 📧 Email:(prafulshengaye00@gmail.com)  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/praful-shengaye-459a97222/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEGXRdMWMTM2mfrlg1dn%2BVQ%3D%3D)
-#rResume Link:https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742eb9d7ca4c4119e9b10cc
+
+Resume Link:https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742eb9d7ca4c4119e9b10cc
 
 
