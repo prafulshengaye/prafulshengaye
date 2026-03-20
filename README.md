@@ -51,6 +51,7 @@ Focused on delivering high-quality software through automation and efficient tes
 📧 Email: prafulshengaye00@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/praful-shengaye
 
-Resume Link: 
+Resume Link: https://drive.google.com/file/d/1q3mWxsuZCLs6UnNNkQFwcObuiMEEwz69/view?usp=sharing
+
 
 
