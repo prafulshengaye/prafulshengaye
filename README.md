@@ -1,20 +1,25 @@
-# Hi , i Am Praful Gokul Shengaye
+# Hi, I'm Praful Gokul Shengaye 👋
 
-🎯 **Aspiring Software Development Engineer in Test (SDET)**  
-🎓 Currently completing the SDET program at Masai School  
-💻 Pursuing a B.Tech degree  
+🎯 QA Engineer | Automation Tester  
+💻 Skilled in Cypress, Playwright, Selenium, API & Mobile Testing  
+🎓 SDET Program – Masai School  
+🎓 B.Tech (Mechanical Engineering)  
+
+---
+
+## 🚀 About Me
+Detail-oriented QA Engineer with hands-on experience in manual and automation testing. Skilled in designing test cases, identifying defects, and ensuring product quality using structured testing practices. Experienced in web, API, and mobile testing with real-world project exposure.
 
 ---
 
-## 🌟 Skills and Expertise
+## 🛠️ Skills & Technologies
 
-- **Automation Testing**: Cypress, Selenium  
-- **API Testing**: Postman, REST APIs  
-- **Mobile Testing**: Android & iOS apps  
-- **Manual Testing**: Test planning, bug tracking  
-- **Programming Languages**: JavaScript, Python  
-
----
+**Automation Testing:** Cypress, Playwright, Selenium  
+**API Testing:** Postman, REST APIs  
+**Manual Testing:** Test Case Design, Bug Tracking, Regression Testing  
+**Mobile Testing:** Android & iOS Testing  
+**Programming:** JavaScript, Java, Python  
+**Tools:** Jira, Linear, Git, GitHub  
 
 ## 📚 Projects
 
@@ -30,19 +35,22 @@ Automation Testing On Opencart website using CYypress.
 This application aims to simplify personal finance management by providing a comprehensive and easy-to-use solution for monitoring and controlling spending.  
 🔗 [Repository Link](https://github.com/prafulshengaye/Expense-Tracking--JavaScript-Project)  
 
+### 4. **Java Project – Autoboxing, Unboxing & Shape Calculation**
+Demonstrates autoboxing and unboxing concepts with automatic conversion between primitive types and wrapper classes
+Implements shape calculations (area, perimeter) using object-oriented programming principles
+🔗 [Repository Link](https://github.com/prafulshengaye/-JavaProject-On-AutoBoxing-Unboxing-Shape-Calculation)  
+
 ---
 
-## 🚀 Career Goals
-
-Dedicated to improving software quality through innovative testing approaches. Passionate about learning new tools and collaborating with teams to ensure flawless product delivery.
+## 🎯 Career Focus
+Focused on delivering high-quality software through automation and efficient testing strategies. Continuously learning advanced tools and improving testing practices.
 
 ---
 
-**📫 Connect with Me**  
-📧 Email:(prafulshengaye00@gmail.com)  
+## 📫 Connect with Me
+📧 Email: prafulshengaye00@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/praful-shengaye
 
-🔗 [LinkedIn](https://www.linkedin.com/in/praful-shengaye-459a97222/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEGXRdMWMTM2mfrlg1dn%2BVQ%3D%3D)
-
-Resume Link:https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6742eb9d7ca4c4119e9b10cc
+Resume Link: 
 
 
